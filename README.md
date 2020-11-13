@@ -53,6 +53,14 @@ This README lists evidence that massive fraud in favor of the democratic party t
 1. NY USPS mail carrier arrested for dumping mail that included ballots.
     - https://www.youtube.com/watch?v=04N1Rtd1ezM
 
+## Suspicious Turnout Percentages
+
+1. Maricopa County in AZ: 80%
+    - Links TBD
+
+2. WI: >90%
+    - Links TBD
+
 ## Statistical Analysis
 
 1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
