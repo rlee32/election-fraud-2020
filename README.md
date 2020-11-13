@@ -18,8 +18,13 @@ This README lists evidence that massive fraud in favor of the democratic party t
 1. Swing states with strong Trump leads inexplicably stop counting early on election day: GA, NC, PA, MI, WI, AZ
     - Links TBD
 
-2. Atlanta lies about reason for stopping count, blaming a water pipe burst that has no documented work orders.
+2. Atlanta polling officials lie about reason for stopping count, blaming a water pipe burst that has no documented work orders.
     - Links TBD
+
+## Lost Votes
+
+1. Connecticut town clerk discovers unrecorded votes that put GOP House Rep in the lead, after having already been declared the loser of the race.
+    - https://www.breitbart.com/politics/2020/11/11/connecticut-gop-lawmaker-discovered-winner-after-race-called-for-democrat/
 
 ## Vote Swapping
 
@@ -46,13 +51,13 @@ This README lists evidence that massive fraud in favor of the democratic party t
 ## Statistical Analysis
 
 1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
- - https://www.youtube.com/watch?v=Ztu5Y5obWPk&ab_channel=Dr.ShivaAyyadurai
+    - https://www.youtube.com/watch?v=Ztu5Y5obWPk&ab_channel=Dr.ShivaAyyadurai
 
 2. Benford's Law elucidates human manipulation in vote counts by county in multiple cities: Philadelphia, Detroit, Atlanta, Milwaukee.
- - Links TBD
+    - Links TBD
 
 3. Discontinuities and large changes in ratios of democrat-to-republican votes vs. time suggest manufacturing of fake ballots in multiple states: VA, PA, MI, WI
- - Links TBD
+    - Links TBD
 
 ## Platform / Publisher Bias
 
@@ -61,10 +66,10 @@ Certain platforms are starting to behave like publishers by censoring voices tha
 ### Google / Youtube
 
 1. Dr. Robert Epstein found that Google reminded only liberally-profiled users to vote on the Google home page for four days.
- - https://www.theepochtimes.com/video-google-vote-reminders-only-went-to-liberals-not-conservatives-for-at-least-four-days-dr-robert-epstein_3577146.html?utm_source=news&utm_medium=email&utm_campaign=breaking-2020-11-12-5
+    - https://www.theepochtimes.com/video-google-vote-reminders-only-went-to-liberals-not-conservatives-for-at-least-four-days-dr-robert-epstein_3577146.html?utm_source=news&utm_medium=email&utm_campaign=breaking-2020-11-12-5
 
 2. Searching directly for popular conservative political channels on Youtube returns far less popular videos that are critical of the channel directly searched for.
- - Links TBD
+    - Links TBD
 
 ## Biased Influential Election Workers
 
@@ -74,4 +79,5 @@ Certain platforms are starting to behave like publishers by censoring voices tha
 
 2. Dr. Eric Coomer, Security Director, Product Strategy at Dominion Voting Systems, wrote an open letter on behalf of Antifa criticizing President Trump.
     - https://twitter.com/JoeOltmann/status/1326925274789908480
+    - https://www.zoominfo.com/p/Eric-Coomer/1413543962
 
