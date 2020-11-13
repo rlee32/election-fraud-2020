@@ -21,11 +21,6 @@ This README lists evidence that massive fraud in favor of the democratic party t
 2. Atlanta polling officials lie about reason for stopping count, blaming a water pipe burst that has no documented work orders.
     - Links TBD
 
-## Lost Votes
-
-1. Connecticut town clerk discovers unrecorded votes that put GOP House Rep in the lead, after having already been declared the loser of the race.
-    - https://www.breitbart.com/politics/2020/11/11/connecticut-gop-lawmaker-discovered-winner-after-race-called-for-democrat/
-
 ## Vote Swapping
 
 1. Republican house candidate wins by 1,100 votes after discovery of a 'glitch' where republican votes were given to the democratic candidate and vice versa. Before the discovery, the republican house candidate was losing by 100 votes.
@@ -48,6 +43,26 @@ This README lists evidence that massive fraud in favor of the democratic party t
 4. Massachusetts illegally deletes ballot images taken by machines during count. Ballot images must be preserved for 2 years after the election for auditing purposes.
     - Links TBD
 
+## Statistical Analysis
+
+1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
+    - https://www.youtube.com/watch?v=Ztu5Y5obWPk&ab_channel=Dr.ShivaAyyadurai
+
+2. Benford's Law elucidates human manipulation in vote counts by county in multiple cities: Philadelphia, Detroit, Atlanta, Milwaukee.
+    - Links TBD
+
+3. Discontinuities and large changes in ratios of democrat-to-republican votes vs. time suggest manufacturing of fake ballots in multiple states: VA, PA, MI, WI
+    - Links TBD
+
+## Invalid / Suspicious Voter Rolls
+
+1. 11,152 centenerians on MI voter rolls. 2020 Census states that state with most centenarians is CA with less than 6,000.
+    - https://michiganvoters.info/
+
+2. 14,099 federal-only voters in AZ (voters whose citizenship cannot be established).
+    - https://www.thegatewaypundit.com/2020/11/arizona-rep-points-number-potential-non-citizen-voters-higher-bidens-lead-state/?utm_source=Twitter&utm_campaign=websitesharingbuttons
+    - https://twitter.com/KellyTownsend11/status/1326711277880664064
+
 ## Arrests and Convictions Related to Ballots
 
 1. NY USPS mail carrier arrested for dumping mail that included ballots.
@@ -61,16 +76,10 @@ This README lists evidence that massive fraud in favor of the democratic party t
 2. WI: >90%
     - Links TBD
 
-## Statistical Analysis
+## Lost Votes
 
-1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
-    - https://www.youtube.com/watch?v=Ztu5Y5obWPk&ab_channel=Dr.ShivaAyyadurai
-
-2. Benford's Law elucidates human manipulation in vote counts by county in multiple cities: Philadelphia, Detroit, Atlanta, Milwaukee.
-    - Links TBD
-
-3. Discontinuities and large changes in ratios of democrat-to-republican votes vs. time suggest manufacturing of fake ballots in multiple states: VA, PA, MI, WI
-    - Links TBD
+1. Connecticut town clerk discovers unrecorded votes that put GOP House Rep in the lead, after having already been declared the loser of the race.
+    - https://www.breitbart.com/politics/2020/11/11/connecticut-gop-lawmaker-discovered-winner-after-race-called-for-democrat/
 
 ## Platform / Publisher Bias
 
