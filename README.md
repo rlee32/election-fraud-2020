@@ -1,6 +1,6 @@
 # Election Fraud in 2020
 
-This README lists evidence that massive fraud in favor of the democratic party took place in order to steal a landslide from President Trump.
+This README lists evidence that massive fraud in favor of the democratic party took place in order to steal a landslide victory from President Trump.
 
 ## Illegal Votes
 
@@ -47,6 +47,11 @@ This README lists evidence that massive fraud in favor of the democratic party t
 
 4. Massachusetts illegally deletes ballot images taken by machines during count. Ballot images must be preserved for 2 years after the election for auditing purposes.
     - Links TBD
+
+## Arrests and Convictions Related to Ballots
+
+1. NY USPS mail carrier arrested for dumping mail that included ballots.
+    - https://www.youtube.com/watch?v=04N1Rtd1ezM
 
 ## Statistical Analysis
 
