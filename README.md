@@ -9,6 +9,7 @@ This README lists evidence that massive fraud in favor of the democratic party t
 
 2. About 10,000 illegal mail-in ballots from dead people in Michigan.
     - https://www.theepochtimes.com/10000-dead-people-returned-mail-in-ballots-in-michigan-analysis-shows_3573209.html?utm_source=news&utm_medium=email&utm_campaign=breaking-2020-11-10-2
+    - https://twitter.com/DetmerMike/status/1327093245315313666
 
 3. 140,000 votes for Biden appear at 4AM in Michigan after counting stopped for several hours on the morning after election day.
     - Links TBD
@@ -41,6 +42,12 @@ This README lists evidence that massive fraud in favor of the democratic party t
 6. Son of senior in low-housing complex in CA reports coercion to vote for democrats and illegally filling out ballots.
     - https://www.msn.com/en-us/news/politics/woman-alleged-to-have-intimidated-seniors-to-vote-for-biden-criminal-investigation-opened/ar-BB1aEvki
 
+7. PA ballots were opened before election day to call voters to correct ballots. Opening ballots before election day is illegal.
+    - https://twitter.com/tracybeanz/status/1326981600689602561
+
+8. David Shafer, Chairman of the GA Republican Party, reports that Fulton County officials told the media and Republican poll watchers that counting stopped at 10:30PM on election day, and told them to go home. However, counting continued secretly until 1:00AM.
+    - https://twitter.com/DavidShafer/status/1325956840769859586
+
 ## Statistical Analysis
 
 1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
@@ -54,6 +61,9 @@ This README lists evidence that massive fraud in favor of the democratic party t
 
 4. In GA, 3.5% of mail-in ballots were rejected. As of the time of this writing, only 0.3% have been rejected.
     - Links TBD
+
+5. President Trump's share of mail-in votes counted after election day is exactly 40% less than election day in-person votes in every single county.
+    - https://www.thegatewaypundit.com/2020/11/shocking-exclusive-caught-pennsylvania-results-show-statistically-impossible-pattern-behind-bidens-steal-caught/
 
 ## Invalid / Suspicious Voter Rolls
 
@@ -102,6 +112,11 @@ Certain platforms are starting to behave like publishers by censoring voices tha
 
 2. Searching directly for popular conservative political channels on Youtube returns far less popular videos that are critical of the channel directly searched for.
     - Links TBD
+
+### Facebook
+
+1. Facebook removes title of 'President' from President Trump's Facebook page, replaced with 'Political Candidate', even though President Trump is still President.
+    - See President Trump's Facebook page.
 
 ## Biased Election Workers
 
