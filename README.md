@@ -1,5 +1,7 @@
 # Election Fraud in 2020
 
+THIS IS NO LONGER BEING UPDATED. PLEASE GO HERE FOR AN ACTIVE LIST: https://hereistheevidence.com/
+
 This README lists evidence that massive fraud in favor of the democratic party took place in order to steal a landslide victory from President Trump.
 
 ## Illegal Votes
@@ -48,7 +50,7 @@ This README lists evidence that massive fraud in favor of the democratic party t
 8. David Shafer, Chairman of the GA Republican Party, reports that Fulton County officials told the media and Republican poll watchers that counting stopped at 10:30PM on election day, and told them to go home. However, counting continued secretly until 1:00AM.
     - https://twitter.com/DavidShafer/status/1325956840769859586
 
-## Statistical Analysis
+## Statistical Anomalies
 
 1. Dr. Shiva, PhD, uncovers strong adverse linear relationships between rate of republican down-ballot votes and votes for democrats, suggesting software-based swapping of republican votes to democrat votes in at least 4 Michigan counties totalling 69,000 wrongfully swapped votes.
     - https://www.youtube.com/watch?v=Ztu5Y5obWPk&ab_channel=Dr.ShivaAyyadurai
@@ -64,6 +66,12 @@ This README lists evidence that massive fraud in favor of the democratic party t
 
 5. President Trump's share of mail-in votes counted after election day is exactly 40% less than election day in-person votes in every single county.
     - https://www.thegatewaypundit.com/2020/11/shocking-exclusive-caught-pennsylvania-results-show-statistically-impossible-pattern-behind-bidens-steal-caught/
+
+6. Biden only won 1 bellweather county, of 19 that have always gone to the winner in the past 40 years.
+    - https://www.theepochtimes.com/bellwether-counties-went-overwhelmingly-for-trump-in-2020_3579578.html?utm_source=news&utm_medium=email&utm_campaign=breaking-2020-11-15-5
+
+7. Biden underperformed Clinton except for in Milwaukee, Detroit, Atlanta and Philadelphia (four cities highly suspected of election fraud).
+    - https://democracyinstitute.org/patrick-bashams-sunday-express-article-assesses-us-election-pollingtemp/
 
 ## Invalid / Suspicious Voter Rolls
 
@@ -81,7 +89,7 @@ This README lists evidence that massive fraud in favor of the democratic party t
     - Links TBD
 
 2. Atlanta polling officials lie about reason for stopping count, blaming a water pipe burst that has no documented work orders.
-    - Links TBD
+    - https://nationalfile.com/busted-evidence-proves-burst-water-pipe-in-georgia-was-used-as-cover-for-secret-vote-counting/?utm_source=rss&utm_medium=rss&utm_campaign=busted-evidence-proves-burst-water-pipe-in-georgia-was-used-as-cover-for-secret-vote-countin
 
 ## Arrests and Convictions Related to Ballots
 
@@ -128,3 +136,5 @@ Certain platforms are starting to behave like publishers by censoring voices tha
     - https://twitter.com/JoeOltmann/status/1326925274789908480
     - https://www.zoominfo.com/p/Eric-Coomer/1413543962
 
+3. American Postal Worker Union endorsed Joe Biden.
+    - Links TBD
